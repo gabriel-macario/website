@@ -1,0 +1,10 @@
+.homeContainer{
+    width: 50%;
+  height:100%;
+  position: absolute;
+  background-color: white;
+  top: 0;
+  line-height: 75px;
+  font-size: 30px;
+  z-index: 1;
+}

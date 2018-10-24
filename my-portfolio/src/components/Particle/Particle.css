@@ -1,0 +1,10 @@
+.background{
+    background-image: linear-gradient(to right top, #babfc2, #92999f, #6b757d, #48535c, #26333e);
+    width: 100%;
+  height: 100%;
+  position: fixed;
+  background-color: #000;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  }
