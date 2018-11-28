@@ -5,7 +5,7 @@ import ("./Particle.css");
 const particleOpt = {
     particles: {
      number:{
-       value: 15,
+       value: 30,
        density:{
          enable: true,
          value_area: 800,
