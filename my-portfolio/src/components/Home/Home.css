@@ -36,5 +36,6 @@ li {
 }
 
 .simpleNav{
-
+position: absolute;
+bottom: 2%;
 }
