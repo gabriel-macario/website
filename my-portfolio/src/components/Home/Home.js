@@ -17,15 +17,7 @@ export default class Header extends Component {
         </div>
 
 
-        <div className="simpleNav text-center">
-          <ul>
-            <li>Portfolio</li>
-            <li> | </li>
-            <li>Resume</li>
-            <li> | </li>
-            <li>Contact</li>
-          </ul>
-        </div>
+
       </div>
     )
   }

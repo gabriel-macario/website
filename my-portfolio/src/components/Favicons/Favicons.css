@@ -1,0 +1,22 @@
+a { color: inherit; } 
+
+
+.icons{
+    font-size: 150%;
+    position: absolute;
+    bottom: 2%;
+    right: 4%;
+}
+
+.fa{
+    margin:5px;
+}
+
+@media screen and (min-width: 980px){
+
+.icons{
+    position: absolute;
+    bottom: 2%;
+    right: 52%;
+}
+}
